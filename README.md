@@ -1,4 +1,4 @@
-# ¡Hola! Soy Katherine Varela Fernández 
+## ¡Hola! Soy Katherine Varela Fernández 
 
 ---
 
@@ -44,6 +44,6 @@ I am a **Software Developer** and an **Electromechanical Engineering student (7t
 
 ### ¡Conectemos! / Let's Connect!
 - **Email:** [katherinevarela775@gmail.com](mailto:katherinevarela775@gmail.com)
-- - **GitHub:** [@katherinevarela775](https://github.com/katherinevarela775)
+- **GitHub:** [@katherinevarela775](https://github.com/katherinevarela775)
 
 ---
