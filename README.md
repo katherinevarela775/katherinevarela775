@@ -1,4 +1,4 @@
-# ¡Hola! Soy Katherine Varela Fernández 👋
+# ¡Hola! Soy Katherine Varela Fernández 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Katherine%20Varela&subtitle=Software%20Developer&theme=dark" alt="Banner" />
@@ -6,7 +6,7 @@
 
 ### ⚙️ Sobre mí
 
-Soy una desarrolladora de software enfocada en la creación de soluciones lógicas, eficientes y bien estructuradas. Me apasiona resolver problemas complejos mediante el código, diseñar algoritmos optimizados y aplicar buenas prácticas de desarrollo como la modularidad y el código limpio.
+Soy una desarrolladora de software y estudiante de Ingeniería Electromecánica. Combino el rigor analítico de la ingeniería con la creación de soluciones lógicas, eficientes y bien estructuradas mediante el código. Me apasiona resolver problemas complejos, diseñar algoritmos optimizados y aplicar buenas prácticas de desarrollo como la modularidad y el código limpio.
 
 ---
 
@@ -24,8 +24,7 @@ Soy una desarrolladora de software enfocada en la creación de soluciones lógic
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=katherinevarela775&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinevarela775
-&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katherinevarela775&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Lenguajes más usados" height="150" />
 </p>
 
 ---
@@ -36,6 +35,4 @@ Soy una desarrolladora de software enfocada en la creación de soluciones lógic
 - 🔧 Escritura de código limpio, mantenible y escalable.
 
 ### 📫 Conectemos
-- 📧 [Correo Electrónico](mailto:katherinevarela775@gmail.com)
-- 📧 [Correo Electrónico](mailto:TU_CORREO@EJEMPLO.COM)
-
+- 📧 [katherinevarela775@gmail.com](mailto:katherinevarela775@gmail.com)
